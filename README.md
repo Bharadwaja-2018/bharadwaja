@@ -1,2 +1,7 @@
 # bharadwaja
-just another repository
+
+
+HI everyone ,
+
+
+i am bulinding php project
